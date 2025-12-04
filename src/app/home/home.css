@@ -1,0 +1,16 @@
+.home-wrapper {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: sans-serif;
+}
+
+.home-wrapper h1 {
+  margin-bottom: 0.5rem;
+}
+
+.home-wrapper p {
+  color: #555;
+}
